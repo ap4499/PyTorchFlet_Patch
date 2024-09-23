@@ -5,8 +5,6 @@ import os
 import logging
 
 
-# logging_config.configure_logging()
-
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG) 
 
